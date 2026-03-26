@@ -1,0 +1,2 @@
+# Methodology
+Bug Bounty Methodologies
